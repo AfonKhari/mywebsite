@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-02-26T12:01:10+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Afon Khari",
+      "description": "Hello world, my name is Afon. I am a researcher in Brain and Cognitive Sciences!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-02-26T12:01:10+01:00"
+    }
+  ],
+  "collections": []
+}
