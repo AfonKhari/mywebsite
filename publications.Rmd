@@ -1,0 +1,38 @@
+---
+title: "Publications"
+description: "Articles and conference presentations"
+output: distill::distill_article
+---
+
+### Selected Articles and Essays
+
+- Khari, M. (2024, June). *Spirituality and Cyberspace: The Role of VR in Inducing Spiritual Experiences*. ABC Journal of Amsterdam Brain and Cognition.
+- Khari, M. (2024, July). *What We Missed and Why?* Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2024, February). *The Reading Brain*. Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2024, January). *Hearts and Minds*. Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2023, May). *X = Y*. Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2023, March). *ChatGPT: The Double-Edged Sword of AI Language Models*. Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2023, January). *Fostering the Prosocial Neural Network Through Gratitude*. Mind Brain Ed Think Tank+ of JALT.
+- Khari, M. (2022–2021). Numerous essays and co-authored pieces on neuroscience, storytelling, emotional autonomy, and language learning.  
+  *(See full CV for complete bibliography.)*
+
+---
+
+### Conference Presentations & Webinars
+
+#### 🎥 *Embedded YouTube Videos*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78VlsATYm-0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FT-gagz_y4" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJL85tWtlRs?start=1448" frameborder="0" allowfullscreen></iframe>
+
+---
+
+#### 📣 Other Appearances (selected)
+
+- *Fostering Creativity and Responsibility Through Storytelling in Rhizomatic Learning*, Edulab, University of Belgrade.
+- *Teachers’ Affective Autonomy and Well-being*, EAQUALS.
+- *Neuroscience of Stories*, İMBAT Akademi.
+- *Cultural Context and the Neuroscience of Learning*, JALT.

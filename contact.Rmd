@@ -1,0 +1,30 @@
+---
+title: "Contact"
+description: "How to reach me"
+output: distill::distill_article
+---
+
+I'm always happy to connect, whether it's to discuss research collaborations, educational initiatives, or just to share ideas.  
+Feel free to reach out using any of the platforms below:
+
+<br>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<a href="mailto:afonkhari@gmail.com" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px;">📧 Email</button>
+</a>
+
+<a href="https://www.linkedin.com/in/afon-khari-92a430159" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px;">🔗 LinkedIn</button>
+</a>
+
+<a href="https://www.researchgate.net/profile/Mohammad-Khari-2" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px;">📚 ResearchGate</button>
+</a>
+
+<a href="https://orcid.org/0000-0002-5767-0617" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px;">🧬 ORCID</button>
+</a>
+
+</div>

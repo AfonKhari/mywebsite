@@ -1,0 +1,124 @@
+---
+title: "Curriculum Vitae"
+description: "Academic and professional background of Afon Khari"
+output: distill::distill_article
+---
+
+## 📍 Contact Information
+
+**Afon (Mohammad) Khari**  
+2546 TX, The Hague, The Netherlands  
+📧 [afonkhari@gmail.com](mailto:afonkhari@gmail.com)  
+<!--📱 +31 642776638 --> 
+🔗 [LinkedIn](https://www.linkedin.com/in/afon-khari-92a430159) | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Khari-2) | [ORCID](https://orcid.org/0000-0002-5767-0617)
+
+---
+
+## 🎓 Education
+
+### MSc – Brain and Cognitive Sciences (2023–2025)  
+**University of Amsterdam, The Netherlands**  
+Specialization: Cognitive Science  
+- Coursework: Cognitive Data Science, Computational Cognitive Neuroscience, Philosophy of Cognition, etc.  
+- Research Intern at ILLC and Donders Institute  
+- Panel Coordinator at ESA, Student Board Member at EPICUR
+
+### PhD (ABD) – Art Research (2012–2017)  
+**Art University of Tehran, Iran**  
+- TA for English and research methods  
+- Delivered seminars in English  
+- RA in emerging art and philosophy fields
+
+### MA – Philosophy of Art (2009–2012)  
+**Art University of Tehran, Iran**
+
+### BA – English Language and Literature (2003–2008)  
+**Guilan University, Iran**
+
+---
+
+## 🔬 Research Experience
+
+### Speech-to-Song Illusion in Tonal Speakers  
+*Music Cognition Group, ILLC*  
+Focus on perceptual transformation of speech and music in tonal language users
+
+### Attentional Control and Environmental Influence  
+*Donders Institute, Lifespan Cognitive Dynamics Lab*  
+Studied behavioral and neural data in cognitive strategy shaping
+
+### Sleep and Cognitive Variability: A DSEM Approach  
+*Donders Institute*  
+Used Dynamic Structural Equation Modeling to assess impact of sleep patterns
+
+---
+
+## 🧠 Academic & Professional Experience
+
+**Editor**, Mind Brain Ed Think Tank (2020–Present)  
+**Lecturer**, Ozyegin University (2018–2023)  
+**Project Manager**, Human Rights Course Design (2020–2023)  
+**EFL Teacher**, Various Institutions (2008–2017)  
+**Lecturer**, Semnan & Rasam Universities (2013–2016)
+
+---
+
+## 🛠 Skills
+
+**Research & Analysis**  
+- Experimental design, behavioral and survey methods  
+- Dynamic Structural Equation Modeling (DSEM)  
+- Cognitive task development and adaptation  
+- Literature synthesis and conceptual modeling
+
+**Technical Tools**  
+- Python   
+- R  
+- JASP
+
+
+**Academic Communication**  
+- Academic writing and editing
+- Science communication for non-specialist audiences  
+- Peer-reviewed article writing and collaborative editing  
+- Panel moderation and public speaking
+
+**Pedagogical Design**  
+- Instructional design for higher education  
+- Assessment and feedback systems  
+- Professional development leadership
+
+---
+
+## 📜 Certifications & Courses
+
+- *Philosophy of Science* – University of Pennsylvania (May 2024)  
+- *Python Programming for Data Science* – University of Helsinki (2023)  
+- *Elements of AI* – University of Helsinki (2023)  
+- *Fundamentals of Neuroscience* – Harvard University (2021)  
+- *Consciousness and the Mind* – Independent study (2023)  
+- *Fostering Student Motivation and Engagement* – University of Oregon (2020)  
+- *Certificate in English Language Teaching to Adults (CELTA)* – Cambridge English (2017)  
+- *How to Teach IELTS* – Cambridge English (2018)  
+- *Understanding IELTS* & *Becoming a Better Teacher* – British Council (2017)
+
+---
+
+## 🎵 Beyond Research
+
+When I’m not immersed in academic work, you can usually find me exploring movies and music, reading philosophy, or walking/hiking in nature.  
+I’m interested in cross-cultural learning experiences, which continue to shape both my teaching and research outlooks.
+
+---
+
+## 📚 Publications & Talks  
+(See [Publications](publications.html) for full list with media)
+
+---
+
+<!--## 🤝 References
+
+- **Dr. Makiko Sadakata** – [M.Sadakata@uva.nl](mailto:M.Sadakata@uva.nl)  
+- **Dr. Jessica Schaaf** – [jessica.schaaf@radboudumc.nl](mailto:jessica.schaaf@radboudumc.nl)  
+- **Dr. Curtis Kelly** – [ctskelly@gmail.com](mailto:ctskelly@gmail.com)  
+- **Heather Kretschmer** – [heather.kretschmer@zess.uni-goettingen.de](mailto:heather.kretschmer@zess.uni-goettingen.de)-->

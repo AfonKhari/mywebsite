@@ -1,15 +1,17 @@
 ---
 title: "Afon Khari"
-description: |
-  Hello world, my name is Afon. I am a researcher in Brain and Cognitive Sciences!
-site: distill::distill_website
+description: "Welcome to my personal website!"
+output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+<div style="text-align: center;">
+  <img src="img/afon.jpg" alt="Afon Khari" style="width:200px; border-radius: 50%; margin-bottom: 20px;">
+</div>
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+Hi, I'm Afon Khari, a researcher with a background in Brain and Cognitive Sciences, Philosophy, and Language.  
+My interdisciplinary academic path has taken me from humanities to the frontiers of cognitive neuroscience and data modeling.
 
-```
+I’m currently a student at the University of Amsterdam and have done research projects at Music Cognition Group, Institute for Logic, Language, and Computation (ILLC) and Donders Institute and Radboud University Medical Center, Developmental Neuroscience (Lifespan Cognitive Dynamics lab).  
+My research bridges analytical modeling and experiential learning, touching on everything from attention and perception to AI and creativity in education.
 
+Feel free to explore my [CV](cv.html), check out my [research](research.html), or browse recent [publications](publications.html).
