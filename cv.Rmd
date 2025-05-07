@@ -9,7 +9,7 @@ output: distill::distill_article
 **Afon (Mohammad) Khari**  
 2546 TX, The Hague, The Netherlands  
 📧 [afonkhari@gmail.com](mailto:afonkhari@gmail.com)  
-<!--📱 +31 642776638 --> 
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/afon-khari-92a430159) | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Khari-2) | [ORCID](https://orcid.org/0000-0002-5767-0617)
 
 ---
@@ -114,11 +114,6 @@ I’m interested in cross-cultural learning experiences, which continue to shape
 ## 📚 Publications & Talks  
 (See [Publications](publications.html) for full list with media)
 
----
 
-<!--## 🤝 References
 
-- **Dr. Makiko Sadakata** – [M.Sadakata@uva.nl](mailto:M.Sadakata@uva.nl)  
-- **Dr. Jessica Schaaf** – [jessica.schaaf@radboudumc.nl](mailto:jessica.schaaf@radboudumc.nl)  
-- **Dr. Curtis Kelly** – [ctskelly@gmail.com](mailto:ctskelly@gmail.com)  
-- **Heather Kretschmer** – [heather.kretschmer@zess.uni-goettingen.de](mailto:heather.kretschmer@zess.uni-goettingen.de)-->
+
