@@ -7,7 +7,7 @@ output: distill::distill_article
 ### Selected Articles and Essays
 
 
-- Khari, M. (forthcoimng). *Simulating Strife:Computational Models of Human Conflict*. ABC Journal of Amsterdam Brain and Cognition.
+- Khari, M. (forthcoimng). *Simulating Strife: Computational Models of Human Conflict*. ABC Journal of Amsterdam Brain and Cognition.
 - Khari, M. and Daley, J. (2025, May). *The Four Pillars of Learning: A Teacher’s Guide to Cognitive Success* Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2024, June). *Spirituality and Cyberspace: The Role of VR in Inducing Spiritual Experiences*. ABC Journal of Amsterdam Brain and Cognition.
 - Khari, M. (2024, July). *What We Missed and Why?* Mind Brain Ed Think Tank+ of JALT.
