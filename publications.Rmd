@@ -6,6 +6,9 @@ output: distill::distill_article
 
 ### Selected Articles and Essays
 
+
+- Khari, M. (forthcoimng). *Simulating Strife:Computational Models of Human Conflict*. ABC Journal of Amsterdam Brain and Cognition.
+- Khari, M. and Daley, J. (2025, May). *The Four Pillars of Learning: A Teacher’s Guide to Cognitive Success* Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2024, June). *Spirituality and Cyberspace: The Role of VR in Inducing Spiritual Experiences*. ABC Journal of Amsterdam Brain and Cognition.
 - Khari, M. (2024, July). *What We Missed and Why?* Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2024, February). *The Reading Brain*. Mind Brain Ed Think Tank+ of JALT.
@@ -13,14 +16,14 @@ output: distill::distill_article
 - Khari, M. (2023, May). *X = Y*. Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2023, March). *ChatGPT: The Double-Edged Sword of AI Language Models*. Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2023, January). *Fostering the Prosocial Neural Network Through Gratitude*. Mind Brain Ed Think Tank+ of JALT.
-- Khari, M. (2022–2021). Numerous essays and co-authored pieces on neuroscience, storytelling, emotional autonomy, and language learning.  
+- Khari, M. (2022–2021). Numerous essays and co-authored pieces on **neuroscience**, **storytelling**, **emotional autonomy**, and **language learning**.  
   *(See full CV for complete bibliography.)*
 
 ---
 
 ### Conference Presentations & Webinars
 
-#### 🎥 *Embedded YouTube Videos*
+#### 🎥 *on YouTube*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78VlsATYm-0" frameborder="0" allowfullscreen></iframe>
 

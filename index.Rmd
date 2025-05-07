@@ -8,7 +8,8 @@ output: distill::distill_article
   <img src="img/afon.jpg" alt="Afon Khari" style="width:200px; border-radius: 50%; margin-bottom: 20px;">
 </div>
 
-Hi, I'm Afon Khari, a researcher with a background in Brain and Cognitive Sciences, Philosophy, and Language.  
+Hi, I'm Afon (Mohammad) Khari, a researcher with a background in **Brain and Cognitive Sciences**, **Philosophy**, and **Language**. 
+
 My interdisciplinary academic path has taken me from humanities to the frontiers of cognitive neuroscience and data modeling.
 
 I’m currently a student at the University of Amsterdam and have done research projects at Music Cognition Group, Institute for Logic, Language, and Computation (ILLC) and Donders Institute and Radboud University Medical Center, Developmental Neuroscience (Lifespan Cognitive Dynamics lab).  

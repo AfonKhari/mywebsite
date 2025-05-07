@@ -4,7 +4,7 @@ description: "My research interests and ongoing work"
 output: distill::distill_article
 ---
 
-My research draws on an interdisciplinary background that bridges cognitive science, neuroscience, philosophy, and linguistics.
+My research draws on an interdisciplinary background that bridges **cognitive science**, **neuroscience**, **philosophy**, and **linguistics**.
 
 I'm particularly interested in how humans attend to, process, and make sense of the world, both through language and in response to internal and environmental dynamics.  
 Some of my main research areas include:
@@ -14,7 +14,7 @@ Some of my main research areas include:
 - **Sleep quality and cognitive variability**, modeled using **Dynamic Structural Equation Modeling (DSEM)**  
 - **Computational modeling** of cognitive strategies and attentional shifts  
 - **Philosophy of cognition and mind**, especially where it intersects with emerging technologies and education  
-- **Language, narrative, and embodiment** — how stories, rhythm, and movement shape understanding  
+- **Language, narrative, and embodiment** , how stories, rhythm, and movement shape understanding  
 - **Science communication and pedagogy**, particularly within interdisciplinary and multilingual contexts
 
 I currently collaborate with the **Music Cognition Group** at the ILLC and the **Lifespan Cognitive Dynamics Lab** at the Donders Institute.

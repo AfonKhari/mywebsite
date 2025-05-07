@@ -19,13 +19,14 @@ output: distill::distill_article
 ### MSc – Brain and Cognitive Sciences (2023–2025)  
 **University of Amsterdam, The Netherlands**  
 Specialization: Cognitive Science  
-- Coursework: Cognitive Data Science, Computational Cognitive Neuroscience, Philosophy of Cognition, etc.  
-- Research Intern at ILLC and Donders Institute  
-- Panel Coordinator at ESA, Student Board Member at EPICUR
+- Coursework: Cognitive Data Science, Computational Cognitive Neuroscience, Philosophy of Cognition, Higher Cognitive Functions, Attentional Control and Decision Making, Digital Twinning, Complexity Science, etc.  
+- Research Intern at **ILLC** and **Donders Institute**  
+- Panel Coordinator at **ESA**, Student Board Member at **EPICUR**
+- Writing Team Leader and Proofreader for the **ABC Journal**
 
 ### PhD (ABD) – Art Research (2012–2017)  
 **Art University of Tehran, Iran**  
-- TA for English and research methods  
+- TA for English and Research Methods  
 - Delivered seminars in English  
 - RA in emerging art and philosophy fields
 
@@ -41,7 +42,7 @@ Specialization: Cognitive Science
 
 ### Speech-to-Song Illusion in Tonal Speakers  
 *Music Cognition Group, ILLC*  
-Focus on perceptual transformation of speech and music in tonal language users
+Focus on perceptual transformation of speech and music in tonal language users, dataset curation and design
 
 ### Attentional Control and Environmental Influence  
 *Donders Institute, Lifespan Cognitive Dynamics Lab*  
@@ -49,17 +50,17 @@ Studied behavioral and neural data in cognitive strategy shaping
 
 ### Sleep and Cognitive Variability: A DSEM Approach  
 *Donders Institute*  
-Used Dynamic Structural Equation Modeling to assess impact of sleep patterns
+Used Dynamic Structural Equation Modeling to assess impact of environmental noise and sleep patterns on fluid intelligence task performance
 
 ---
 
 ## 🧠 Academic & Professional Experience
 
 **Editor**, Mind Brain Ed Think Tank (2020–Present)  
-**Lecturer**, Ozyegin University (2018–2023)  
+**Lecturer**, Ozyegin University, Istanbul, Türkiye (2018–2023)  
 **Project Manager**, Human Rights Course Design (2020–2023)  
-**EFL Teacher**, Various Institutions (2008–2017)  
-**Lecturer**, Semnan & Rasam Universities (2013–2016)
+**EFL and EAP Teacher**, Various Institutions (2008–2017)  
+**Lecturer**, Semnan & Rasam Universities, Iran (2013–2016)
 
 ---
 
@@ -74,7 +75,6 @@ Used Dynamic Structural Equation Modeling to assess impact of sleep patterns
 **Technical Tools**  
 - Python   
 - R  
-- JASP
 
 
 **Academic Communication**  
@@ -106,7 +106,7 @@ Used Dynamic Structural Equation Modeling to assess impact of sleep patterns
 
 ## 🎵 Beyond Research
 
-When I’m not immersed in academic work, you can usually find me exploring movies and music, reading philosophy, or walking/hiking in nature.  
+When I’m not immersed in academic work, you can usually find me watching movies and listening to music, reading philosophy, or walking/hiking in nature.  
 I’m interested in cross-cultural learning experiences, which continue to shape both my teaching and research outlooks.
 
 ---
