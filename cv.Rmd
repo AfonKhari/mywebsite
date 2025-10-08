@@ -42,15 +42,15 @@ Specialization: Cognitive Science
 
 ### Speech-to-Song Illusion in Tonal Speakers  
 *Music Cognition Group, ILLC*  
-Focus on perceptual transformation of speech and music in tonal language users, dataset curation and design
+Focused on perceptual transformation of speech and music in tonal language users, dataset curation and design
 
 ### Attentional Control and Environmental Influence  
 *Donders Institute, Lifespan Cognitive Dynamics Lab*  
 Studied behavioral and neural data in cognitive strategy shaping
 
-### Sleep and Cognitive Variability: A DSEM Approach  
-*Donders Institute*  
-Used Dynamic Structural Equation Modeling to assess impact of environmental noise and sleep patterns on fluid intelligence task performance
+### Environmental noise and Cognitive Variability: A DSEM Approach  
+*Donders Institute, Lifespan Cognitive Dynamics Lab*  
+Used Dynamic Structural Equation Modeling to assess impact of environmental noise on fluid intelligence task performance
 
 ---
 
@@ -92,6 +92,12 @@ Used Dynamic Structural Equation Modeling to assess impact of environmental nois
 
 ## 📜 Certifications & Courses
 
+- *Neuroscience and Neuroimaging (fMRI)* – Johns Hopkins University 
+- *MRI Fundamentals* – Korea Advanced Institute of Science and Technology (KAIST)
+- *Learn Python 2* – codecademy
+- *Machine Learning: Introduction with Regression* – codecademy
+- *Machine Learning: Perceptrons* – codecademy
+- *Linear Algebra* – codecademy
 - *Philosophy of Science* – University of Pennsylvania (May 2024)  
 - *Python Programming for Data Science* – University of Helsinki (2023)  
 - *Elements of AI* – University of Helsinki (2023)  
